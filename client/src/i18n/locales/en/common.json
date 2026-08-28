@@ -1,0 +1,12 @@
+{
+  "notFound": "Not Found",
+  "home": "Home",
+  "app": "Appname",
+  "auth": "Authentication",
+  "navlink": "Navlink",
+  "signIn": "Sign in",
+  "signUp": "Sign up",
+  "email": "Email",
+  "password": "Password",
+  "submit": "Submit"
+}
