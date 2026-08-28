@@ -1,0 +1,10 @@
+{
+  "app": "Appname",
+  "navlink": "Navlink",
+  "notFound": "Not Found",
+  "signIn": "Sign in",
+  "signUp": "Sign up",
+  "email": "Email",
+  "password": "Password",
+  "submit": "Submit"
+}
