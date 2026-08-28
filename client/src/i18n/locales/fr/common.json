@@ -1,0 +1,12 @@
+{
+  "notFound": "Introuvable",
+  "home": "Accueil",
+  "app": "Nomapp",
+  "auth": "Authentification",
+  "navlink": "Liennav",
+  "signIn": "Connexion",
+  "signUp": "Inscription",
+  "email": "Courriel",
+  "password": "Mot de passe",
+  "submit": "Confirmer"
+}
