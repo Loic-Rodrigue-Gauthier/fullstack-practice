@@ -1,0 +1,14 @@
+@theme {
+  --animate-pulse-color: pulse-color 300ms ease-in-out;
+
+  @keyframes pulse-color {
+    0%,
+    100% {
+      background-color: var(--base-color);
+    }
+
+    50% {
+      background-color: var(--pulse-color);
+    }
+  }
+}
