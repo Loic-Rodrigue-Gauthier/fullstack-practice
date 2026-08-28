@@ -1,0 +1,10 @@
+{
+  "app": "Nomapp",
+  "navlink": "Liennav",
+  "notFound": "Introuvable",
+  "signIn": "Connexion",
+  "signUp": "Inscription",
+  "email": "Courriel",
+  "password": "Mot de passe",
+  "submit": "Confirmer"
+}
