@@ -1,0 +1,16 @@
+@layer base {
+  body {
+    @apply dark:bg-black;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  input[type="number"],
+  input[type="search"],
+  input[type="tel"],
+  input[type="url"],
+  textarea {
+    @apply rounded-sm bg-white px-2 py-1 dark:bg-black dark:text-white;
+  }
+}
